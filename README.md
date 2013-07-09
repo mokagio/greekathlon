@@ -70,6 +70,8 @@ Start coding!
 
 ##TODOs
 
-* Finish this readme
+* Finish this README
+* Add a LICENSE
+* Where is the Cordova strucure gone?!
 * Give a shot to [Sass], in the `.sass` format, because it's even more minimal than Less.
 * Give a shot to [Jade](http://jade-lang.com/), because… come on! Do we really still want to open and close tags in 2013?!
