@@ -21,6 +21,11 @@ We use [Less](http://lesscss.org/) to write our CSS. Because it's 2013, and beca
 
 > LESS extends CSS with dynamic behavior such as variables, mixins, operations and functions.
 
+###Handlebars
+
+We use [Handlebars](http://handlebarsjs.com/) to DRY and smartify the HTML.
+
+> Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.
 
 ###Cake
 
@@ -54,7 +59,11 @@ Add the platforms you want to develop for
 _Some how get the Unnamed-Mobile-Framework_
 
 ####Step 5
-_Setup the stuff needed_
+Install the dependencies
+
+	npn install
+	
+Run `cake watch` to… and `grunt` to...
 
 ####Step 6
 Start coding!
